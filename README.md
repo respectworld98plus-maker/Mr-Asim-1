@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Asim-1&show_icons=true&locale=en" alt=Mr-Asim-1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dokimkhanh&" alt="mr-asim-1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christian-byrne&" alt="mr-asim-1" /></p>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
 
@@ -45,15 +45,7 @@ Mr-Asim-Mr
 
 
 
-
-
-div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dokimkhanh&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dokimkhanh&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dokimkhanh&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dokimkhanh&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dokimkhanh&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=dokimkhanh&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=dokimkhanh&theme=radical">
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
